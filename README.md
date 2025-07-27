@@ -6,13 +6,13 @@ TELEGRAM_BOT_TOKEN = "ваш_токен_бота"
 
 GOOGLE_API_KEY = "ваш_ключ_Gemini"
 
-START_URLS = ["https://example.com"]  # страницы для парсинга
+страницы для парсинга: START_URLS = ["https://example.com"] 
 
-DOWNLOAD_DIR = "data/downloads"       # папка для сохранения PDF
+папка для сохранения PDF: DOWNLOAD_DIR = "data/downloads"       
 
-SITE_MAX_PAGES = 100                  # лимит страниц
+лимит страниц: SITE_MAX_PAGES = 100                 
 
-SITE_CONTEXT_LIMIT = 100_000          # ограничение длины текста
+ограничение длины текста: SITE_CONTEXT_LIMIT = 100_000         
 
 ## 2. Start
 python main.py
