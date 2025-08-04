@@ -37,7 +37,7 @@ TELEGRAM_BOT_TOKEN = "ваш_токен_от_бота"
 GOOGLE_API_KEY = "ваш_ключ_Gemini_API"
 ```
 
-## Запуск
+## startup
 
 ```bash
 python main.py
